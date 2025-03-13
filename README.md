@@ -19,7 +19,6 @@ About Me
 💡 Passionate about building resilient, scalable, and automated cloud environments.
 
 📬 Let's Connect
-
 📧 Email: Lauraamanda56@gmail.com 
 🔗 LinkedIn: linkedin.com/in/laura-o-n 
 
