@@ -1,4 +1,4 @@
-                                        DevOps Engineer | Cloud & Infrastructure Automation | Tech Enthusiast
+                                DevOps Engineer | Cloud & Infrastructure Automation | Tech Enthusiast
 ______________________________________________________________________________________________________________________________________________________
 💡 Technical Expertise
 
