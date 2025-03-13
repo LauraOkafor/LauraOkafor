@@ -2,25 +2,25 @@
 
 💡 Technical Expertise
 
-Cloud & DevOps: | AWS | GCP | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana |Prometheus...........
+Cloud & DevOps: | AWS | GCP | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana |Prometheus
 
-Programming & Scripting: Python | Bash | YAML | JSON..........
+Programming & Scripting: Python | Bash | YAML | JSON
 
 Version Control & CI/CD: Git | GitHub | GitLab CI/CD | Jenkins | CI/CD Pipelines.
 
 
 
-About Me
+💫 About Me
 
-🔧 Currently working on automating CI/CD pipelines, optimizing cloud infrastructure, and Kubernetes orchestration.
+•  Currently working on automating CI/CD pipelines, optimizing cloud infrastructure, and Kubernetes orchestration.
 
-🤝 Open to collaborations on cloud-native solutions, DevOps automation, and infrastructure as code (IaC) best practices.
+•  Open to collaborations on cloud-native solutions, DevOps automation, and infrastructure as code (IaC) best practices.
 
-🔍 Seeking insights on scalability in Kubernetes and advanced Terraform configurations.
+•  Seeking insights on scalability in Kubernetes and advanced Terraform configurations.
 
-📖 Expanding my knowledge in cloud security, observability, and DevOps best practices.
+•  Expanding my knowledge in cloud security, observability, and DevOps best practices.
 
-💡 Passionate about building resilient, scalable, and automated cloud environments.
+•  Passionate about building resilient, scalable, and automated cloud environments.
 
 📬 Let's Connect
 
