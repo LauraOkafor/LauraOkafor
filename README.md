@@ -2,8 +2,8 @@
 
 💡 Technical Expertise
 
-Cloud & DevOps: | AWS | GCP | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana |Prometheus
-Programming & Scripting: Python | Bash | YAML | JSON
+Cloud & DevOps: | AWS | GCP | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana |Prometheus...........
+Programming & Scripting: Python | Bash | YAML | JSON..........
 Version Control & CI/CD: Git | GitHub | GitLab CI/CD | Jenkins | CI/CD Pipelines.
 
 About Me
