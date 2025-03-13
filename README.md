@@ -28,6 +28,9 @@ Version Control & CI/CD: Git | GitHub | GitLab CI/CD | Jenkins | CI/CD Pipelines
 
 🔗 LinkedIn: linkedin.com/in/laura-o-n 
 
+
+💻 Tech Stack:
+YAML Shell Script Python C++ AWS Azure Datadog DigitalOcean Google Cloud Linode GithubPages Vercel .Net Apache Kafka Django NodeJS NPM Laravel DjangoREST RabbitMQ React React Native React Query Spring WordPress Apache Nginx Jenkins Gunicorn AmazonDynamoDB MariaDB MicrosoftSQLServer MongoDB MySQL Postgres Redis SQLite NumPy Pandas PyTorch TensorFlow Matplotlib scikit-learn Keras GitLab CI GitLab GitHub GitHub Actions Bitbucket TeamCity Git CircleCI Ansible Docker ElasticSearch Gradle Grafana Jira Kubernetes SonarQube Prometheus Rancher Splunk Swagger TOR Terraform Vagrant
 <!--
 **LauraOkafor/LauraOkafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
