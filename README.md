@@ -2,7 +2,9 @@
 
 💡 Technical Expertise
 
-Cloud & DevOps: AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana | PrometheusProgramming & Scripting: Python | Bash | YAML | JSONVersion Control & CI/CD: Git | GitHub | GitLab CI/CD | Jenkins | CI/CD Pipelines.
+Cloud & DevOps: | AWS | GCP | Docker | Kubernetes | Terraform | Ansible | Jenkins | GitHub Actions | Grafana |Prometheus
+Programming & Scripting: Python | Bash | YAML | JSON
+Version Control & CI/CD: Git | GitHub | GitLab CI/CD | Jenkins | CI/CD Pipelines.
 
 About Me
 
@@ -19,7 +21,7 @@ About Me
 📬 Let's Connect
 
 📧 Email: Lauraamanda56@gmail.com 
-🔗 LinkedIn: linkedin.com/in/laura-o-n
+🔗 LinkedIn: linkedin.com/in/laura-o-n 
 
 <!--
 **LauraOkafor/LauraOkafor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
